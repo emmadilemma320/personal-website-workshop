@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emmadilemma320/person-website-workshop/static/css/main.e2245582.css",
-    "main.js": "/emmadilemma320/person-website-workshop/static/js/main.7c739cb0.js",
-    "static/js/453.fd65e502.chunk.js": "/emmadilemma320/person-website-workshop/static/js/453.fd65e502.chunk.js",
-    "index.html": "/emmadilemma320/person-website-workshop/index.html",
-    "main.e2245582.css.map": "/emmadilemma320/person-website-workshop/static/css/main.e2245582.css.map",
-    "main.7c739cb0.js.map": "/emmadilemma320/person-website-workshop/static/js/main.7c739cb0.js.map",
-    "453.fd65e502.chunk.js.map": "/emmadilemma320/person-website-workshop/static/js/453.fd65e502.chunk.js.map"
+    "main.css": "/emmadilemma320/personal-website-workshop/static/css/main.e2245582.css",
+    "main.js": "/emmadilemma320/personal-website-workshop/static/js/main.1957efa7.js",
+    "static/js/453.fd65e502.chunk.js": "/emmadilemma320/personal-website-workshop/static/js/453.fd65e502.chunk.js",
+    "index.html": "/emmadilemma320/personal-website-workshop/index.html",
+    "main.e2245582.css.map": "/emmadilemma320/personal-website-workshop/static/css/main.e2245582.css.map",
+    "main.1957efa7.js.map": "/emmadilemma320/personal-website-workshop/static/js/main.1957efa7.js.map",
+    "453.fd65e502.chunk.js.map": "/emmadilemma320/personal-website-workshop/static/js/453.fd65e502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2245582.css",
-    "static/js/main.7c739cb0.js"
+    "static/js/main.1957efa7.js"
   ]
 }
